@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./screenshots/NODEJS.jpg" alt="Node.js: Iniciando da Teoria à Prática">
+  <img src="./screenshots/NODEJS.jpg" alt="Node.js: Iniciando da Teoria à Prática" width="200" height="300">
  </h1>
   
 ## Descrição do Projeto
