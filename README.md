@@ -3,4 +3,4 @@
  </h1>
   
 ## Descrição do Projeto
-  <p> Node.js: iniciando da teoria à prática (Rocketseat)</p>
+  <p> Aprendendo Node.js </p>
