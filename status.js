@@ -1,4 +1,5 @@
 const os = require('os')
+const log = require('./logger')
 
 setInterval(() => {
     const {freemem, totalmem} = os //extrair de dentro do os o freemem e totalmem
@@ -17,6 +18,6 @@ setInterval(() => {
     console.log("==== PC STATS ====")
     console.table(status)
 
+    log(`${JSON.stringify(status)}\n`)
+
 }, 1000)
-
-
